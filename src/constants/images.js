@@ -4,7 +4,7 @@ import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
 import figma from '../assets/figma.png';
-import flutter from '../assets/flutter.png';
+import flutter from '../assets/NETCore.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
@@ -23,7 +23,7 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile from '../assets/profiles.png';
+import profile from '../assets/profile1.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
